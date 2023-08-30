@@ -1,9 +1,10 @@
 {
-  "name": "test29Aug",
+  "name": "UiPathFilterMethods",
   "projectId": "59734b09-97f7-42ce-9bbc-43fa1ae5387f",
-  "description": "Blank Process",
+  "description": "Methods of dtata table filtering - Activity, Select, AsEnuerable, LiunQ methods.",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Database.Activities": "[1.7.1]",
     "UiPath.Excel.Activities": "[2.22.0-preview]",
     "UiPath.Mail.Activities": "[1.20.3]",
     "UiPath.System.Activities": "[23.8.1-preview]",
@@ -17,6 +18,7 @@
   "studioVersion": "23.8.0.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
     "isPausable": true,

@@ -13,7 +13,7 @@ using UiPath.UIAutomationNext.API.Contracts;
 using UiPath.UIAutomationNext.API.Models;
 using UiPath.UIAutomationNext.Enums;
 
-namespace test29Aug
+namespace UiPathFilterMethods
 {
     public partial class CodedWorkflow : CodedWorkflowBase
     {
