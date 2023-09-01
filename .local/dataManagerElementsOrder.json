@@ -106,6 +106,18 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "FilterCountry.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Temp&Sequence_1",
+        "Country&Sequence_1",
+        "dt_findata&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
