@@ -26,6 +26,86 @@
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "Findata_FilterActivity.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_findata&Sequence_1",
+        "dt_Year&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Findata_SelectMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_findata&Sequence_3",
+        "dt_year&Sequence_3",
+        "dt_year&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Mobilenumber",
+        "id"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_year&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GlobalHandler.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "answer&Sequence_1",
+        "retry&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "errorInfo",
+        "result"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Findata_EnumerableMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_findata&Sequence_3",
+        "dt_year&Sequence_3",
+        "dt_year&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Mobilenumber",
+        "id"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Findata_LinQMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_findata&Sequence_3",
+        "dt_year&Sequence_3",
+        "dt_year&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "Mobilenumber",
+        "id"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
